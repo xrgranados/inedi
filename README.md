@@ -1,0 +1,2 @@
+# inedi
+Educational page
